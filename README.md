@@ -1,5 +1,5 @@
 # Vagrant-labs
-Ubuntu lab environments, in preparation for projects. 
+Ubuntu lab environments, Creates single bento Ubuntu 18.04 VM
 
 ## How to use this Lab
 1. Install Vagrant: https://www.vagrantup.com/downloads.html
