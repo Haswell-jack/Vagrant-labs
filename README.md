@@ -1,7 +1,11 @@
 # Vagrant-labs
-Ubuntu lab environments, Creates single bento Ubuntu 18.04 VM
+Ubuntu lab environments,
 
-## How to use this Lab
+Lab1 Creates single Bento Ubuntu 18.04 VM
+
+Lab2 creates a control node and two worker nodes. All on Bento Ubuntu 18.04
+
+## How to use these Labs
 1. Install Vagrant: https://www.vagrantup.com/downloads.html
 
 2. Install Oracle Virtual Box:  https://www.virtualbox.org/
@@ -11,10 +15,8 @@ Ubuntu lab environments, Creates single bento Ubuntu 18.04 VM
 git clone https://github.com/Haswell-jack/Vagrant-labs.git
 ```
 
-4. Initialize the VM using vagrant init
-``` shell
-vagrant init bento/ubuntu-18.04
-```
+4. Initialize the respective VM(s) using vagrant init
+
 5. SSH into the VM
 
 ``` shell
