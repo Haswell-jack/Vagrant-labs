@@ -1,5 +1,5 @@
 # Vagrant-labs
-Ubuntu lab environment, in preparation for docker swarm project. Creates one control and two nodes. 
+Ubuntu lab environments, in preparation for projects. 
 
 ## How to use this Lab
 1. Install Vagrant: https://www.vagrantup.com/downloads.html
